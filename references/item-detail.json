@@ -1,0 +1,417 @@
+{
+  "apiEntryPoint": "http://www.uniqlo.com/tw/spa-catalog/products/byslug/178772",
+  "SKUs": [
+    {
+      "SKUUniqueID": "1787720013",
+      "salePrice": "1490",
+      "color": "69",
+      "length": "000",
+      "size": "007",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720015",
+      "salePrice": "1490",
+      "color": "57",
+      "length": "000",
+      "size": "007",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720011",
+      "salePrice": "1490",
+      "color": "09",
+      "length": "000",
+      "size": "004",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720014",
+      "salePrice": "1490",
+      "color": "69",
+      "length": "000",
+      "size": "002",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720017",
+      "salePrice": "1490",
+      "color": "09",
+      "length": "000",
+      "size": "007",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720004",
+      "salePrice": "1490",
+      "color": "69",
+      "length": "000",
+      "size": "003",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720021",
+      "salePrice": "1490",
+      "color": "02",
+      "length": "000",
+      "size": "005",
+      "new": true,
+      "multibuyText": "",
+      "flags": [
+        {
+          "name": "NEW",
+          "value": "NEW"
+        }
+      ],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720005",
+      "salePrice": "1490",
+      "color": "57",
+      "length": "000",
+      "size": "006",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720001",
+      "salePrice": "1490",
+      "color": "69",
+      "length": "000",
+      "size": "006",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720022",
+      "salePrice": "1490",
+      "color": "02",
+      "length": "000",
+      "size": "004",
+      "new": true,
+      "multibuyText": "",
+      "flags": [
+        {
+          "name": "NEW",
+          "value": "NEW"
+        }
+      ],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720018",
+      "salePrice": "1490",
+      "color": "09",
+      "length": "000",
+      "size": "002",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720006",
+      "salePrice": "1490",
+      "color": "57",
+      "length": "000",
+      "size": "005",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720010",
+      "salePrice": "1490",
+      "color": "09",
+      "length": "000",
+      "size": "005",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720003",
+      "salePrice": "1490",
+      "color": "69",
+      "length": "000",
+      "size": "004",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720016",
+      "salePrice": "1490",
+      "color": "57",
+      "length": "000",
+      "size": "002",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720023",
+      "salePrice": "1490",
+      "color": "02",
+      "length": "000",
+      "size": "003",
+      "new": true,
+      "multibuyText": "",
+      "flags": [
+        {
+          "name": "NEW",
+          "value": "NEW"
+        }
+      ],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720009",
+      "salePrice": "1490",
+      "color": "09",
+      "length": "000",
+      "size": "006",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720024",
+      "salePrice": "1490",
+      "color": "02",
+      "length": "000",
+      "size": "002",
+      "new": true,
+      "multibuyText": "",
+      "flags": [
+        {
+          "name": "NEW",
+          "value": "NEW"
+        }
+      ],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720020",
+      "salePrice": "1490",
+      "color": "02",
+      "length": "000",
+      "size": "006",
+      "new": true,
+      "multibuyText": "",
+      "flags": [
+        {
+          "name": "NEW",
+          "value": "NEW"
+        }
+      ],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720008",
+      "salePrice": "1490",
+      "color": "57",
+      "length": "000",
+      "size": "003",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720012",
+      "salePrice": "1490",
+      "color": "09",
+      "length": "000",
+      "size": "003",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720007",
+      "salePrice": "1490",
+      "color": "57",
+      "length": "000",
+      "size": "004",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720002",
+      "salePrice": "1490",
+      "color": "69",
+      "length": "000",
+      "size": "005",
+      "new": false,
+      "multibuyText": "",
+      "flags": [],
+      "pattern": ""
+    },
+    {
+      "SKUUniqueID": "1787720019",
+      "salePrice": "1490",
+      "color": "02",
+      "length": "000",
+      "size": "007",
+      "new": true,
+      "multibuyText": "",
+      "flags": [
+        {
+          "name": "NEW",
+          "value": "NEW"
+        }
+      ],
+      "pattern": ""
+    }
+  ],
+  "ancestors": [
+    "001",
+    "001001",
+    "001001003"
+  ],
+  "buyable": false,
+  "care": "手洗（水溫40度）<br>",
+  "catchCopy": "時尚經典作! 本季最夯的MA-1外套。<br>・俐落剪裁霧面質感，加入最新流行元素。<br>・香煙口袋及肩帶設計，堅持所有細節，展現軍裝風格。<br>・去除袖體部份中棉，舒適度更為提升。<br>・俐落敏捷形象，可與優美風羊毛褲搭配穿著。<br>・耐久撥水加工。",
+  "categories": [
+    "001001003",
+    "001008003"
+  ],
+  "colors": [
+    {
+      "name": "LIGHT GRAY",
+      "code": "02"
+    },
+    {
+      "name": "BLACK",
+      "code": "09"
+    },
+    {
+      "name": "OLIVE",
+      "code": "57"
+    },
+    {
+      "name": "NAVY",
+      "code": "69"
+    }
+  ],
+  "flagSortWeightage": 99999,
+  "flags": [
+    {
+      "name": "EXTENDED_SIZES",
+      "value": "EXTENDED_SIZES"
+    }
+  ],
+  "hidden": false,
+  "id": "178772",
+  "imageGroups": {
+    "pdpDetail": {
+      "mainImages": [],
+      "subImages": []
+    },
+    "pdpMedium": {
+      "mainImages": [],
+      "subImages": []
+    },
+    "localImages": [],
+    "prod": [],
+    "chip2": []
+  },
+  "lengths": [
+    {
+      "name": "",
+      "code": "000"
+    }
+  ],
+  "mainImagePrefix": "",
+  "material": "面料:100% 聚醯胺纖維/ 填充物:100% 聚酯纖維/ 襯裏:100% 聚酯纖維/ 羅紋部分:85% 聚丙烯腈纖維, 12% 聚酯纖維, 3% 彈性纖維/ 裝飾: 人造皮",
+  "name": "男裝 MA-1 飛行外套",
+  "new": false,
+  "parentCategoryId": "001001003",
+  "precautions": "",
+  "priority": 0,
+  "recommendation": 99999,
+  "representativeSKU": {
+    "SKUUniqueID": "1787720007",
+    "salePrice": 1490,
+    "color": "57",
+    "length": "000",
+    "size": "004",
+    "new": false,
+    "multibuyText": "",
+    "pattern": "",
+    "flags": []
+  },
+  "reviewCount": 0,
+  "reviewRating": "",
+  "sizeText": "",
+  "sizes": [
+    {
+      "name": "XS",
+      "code": "002"
+    },
+    {
+      "name": "S",
+      "code": "003"
+    },
+    {
+      "name": "M",
+      "code": "004"
+    },
+    {
+      "name": "L",
+      "code": "005"
+    },
+    {
+      "name": "XL",
+      "code": "006"
+    },
+    {
+      "name": "XXL",
+      "code": "007"
+    }
+  ],
+  "slug": "178772",
+  "spec": "正中央為拉鍊設計，口袋：前×2（左右）・腕×1（左・具拉鍊設計）・内×1（左）",
+  "stockAvailableColors": [],
+  "subImages": [
+    "178772_sub1",
+    "178772_sub2",
+    "178772_sub3",
+    "178772_sub4",
+    "178772_sub5",
+    "178772_sub6"
+  ],
+  "systemId": ""
+}
