@@ -8,7 +8,8 @@
     "prestart": "npm run build",
     "start": "node ./dist/index.js",
     "pretest": "npm run build",
-    "test": "./node_modules/.bin/tape -r babel-register tests/**/*.spec.js"
+    "test": "./node_modules/.bin/tape -r babel-register tests/**/*.spec.js",
+    "snapshot": "node ./tests/take-api-snapshot.js"
   },
   "author": "AJ Hsu",
   "license": "MIT",
@@ -23,6 +24,7 @@
   },
   "dependencies": {
     "lodash": "^4.16.6",
-    "request-promise": "^4.1.1"
+    "request-promise": "^4.1.1",
+    "wgetjs": "^0.3.6"
   }
 }
