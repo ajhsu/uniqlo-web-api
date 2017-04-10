@@ -8,10 +8,10 @@ const createStoreApi = (requestModule = requestPromise) => {
     getAllStores() {
       const storeTransformer = storeApiResponse =>
         storeApiResponse.result.stores;
-      const storePropertyFilter = store => {
+      const storePropertyTransformer = store => {
         return {
-          store_id: store.store_id,
-          store_name: store.store_name,
+          storeId: store.store_id,
+          storeName: store.store_name,
           address: store.address
         };
       };
@@ -24,7 +24,7 @@ const createStoreApi = (requestModule = requestPromise) => {
         .then(responses => thenable(responses.map(jsonify)))
         .then(jsons => thenable(jsons.map(storeTransformer)))
         .then(storesInEachArea => thenable(concat(...storesInEachArea)))
-        .then(stores => stores.map(storePropertyFilter));
+        .then(stores => stores.map(storePropertyTransformer));
     }
   };
 };
